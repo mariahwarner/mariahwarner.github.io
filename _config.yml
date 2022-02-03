@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:warner.796@osu.edu"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MariahKathrynW"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Ohio State Sociology, icon: graduation-cap, url: "https://sociology.osu.edu/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
