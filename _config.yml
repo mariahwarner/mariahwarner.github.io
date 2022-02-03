@@ -19,10 +19,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "MKWarner January 2022 CV.pdf", title: "CV"}
   - {file: "aboutme.md", title: "About Me"}
 
+
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:warner.796@osu.edu"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MariahKathrynW"}
-  - {title: Ohio State Sociology, icon: f19d, url: "https://sociology.osu.edu/"}
+  - {title: Ohio State Sociology, icon: graduation-cap, url: "https://sociology.osu.edu/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
