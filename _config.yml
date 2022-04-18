@@ -17,7 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://mariahwarner.github.io/MKWarner%20January%202022%20CV.pdf", title: "CV"}
+  - {file: "research.md", title: "Research"}
   - {file: "aboutme.md", title: "About Me"}
+ 
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
