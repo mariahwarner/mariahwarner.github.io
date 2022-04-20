@@ -16,10 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://mariahwarner.github.io/MKWarner%20January%202022%20CV.pdf", title: "CV"}
+  - {url: "https://mariahwarner.github.io/CV%20April%202022.pdf", title: "CV"} 
   - {file: "research.md", title: "Research"}
   - {file: "aboutme.md", title: "About Me"}
-  - {url: "https://mariahwarner.github.io/CV%April%2022.pdf", title: "CV2"}
  
 
 
