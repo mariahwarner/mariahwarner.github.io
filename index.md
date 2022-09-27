@@ -8,4 +8,4 @@ Hi, I'm Mariah (she/her). I'm a fourth year PhD student in the Sociology Departm
 Use the navigation buttons in the top and bottom right corners to learn more about me and my work. 
 
 
-![image](/assets/images/headshot1.jpg)
+![image](/assets/images/IMG_7204.jpg)
