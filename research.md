@@ -7,20 +7,4 @@ My most recent work, co-authored with Dr. Chris Knoester and published in [_Soci
 
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1177/23294965221074017" data-hide-no-mentions="true" class="altmetric-embed"></div> ![image](/assets/images/screenshot1.jpg) ![image](/assets/images/screenshot2.jpg)
-
-.inline-element {
-   display: ![image](/assets/images/screenshot1.jpg);
-   display: <div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1177/23294965221074017" data-hide-no-mentions="true" class="altmetric-embed"></div>
-}
-
-
-  <div id="banner">
-    <div class="inline-block">      
-     <div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1177/23294965221074017" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    </div>
-       
-      <div class="inline-block">
-        <img src ="/assets/images/screenshot1.jpg">
-    </div>
-</div>
+<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1177/23294965221074017" data-hide-no-mentions="true" class="altmetric-embed"></div>
