@@ -1,6 +1,3 @@
------
------
-
 # Research
 
 My research interests are broadly centered within Political and Cultural Sociology and Sociology of Sport.
