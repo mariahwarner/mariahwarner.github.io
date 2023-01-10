@@ -11,15 +11,11 @@ My most recent work, co-authored with Dr. Chris Knoester and published in [_Soci
 
 
   <div id="banner">
-    <div class="inline-block">
-        <img src ="/assets/images/screenshot2.jpg">
+    <div class="inline-block">      
+     <div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1177/23294965221074017" data-hide-no-mentions="true" class="altmetric-embed"></div>
     </div>
-
-    <div class="inline-block">
-        <img src =<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1177/23294965221074017" data-hide-no-mentions="true" class="altmetric-embed"></div>>
-    </div>
-
-    <div class="inline-block">
-        <img src ="img3.jpg">
+       
+      <div class="inline-block">
+        <img src ="/assets/images/screenshot1.jpg">
     </div>
 </div>
