@@ -35,9 +35,8 @@ https://www.pymnts.com/study_posts/consumers-say-they-want-budgeting-tools-but-a
 https://www.pymnts.com/study_posts/do-the-side-hustle-four-in-10-us-consumers-seize-the-opportunity-to-earn-more-income/
 
 <a href="https://www.pymnts.com/study_posts/navigating-the-shifting-sands-of-consumer-spending-amid-rising-prices-and-new-tariffs/" target="_blank">
-  <img src="/images/pymnts-report-header.png" alt="PYMNTS Report: Navigating the Shifting Sands of Consumer Spending" style="max-width: 100%; height: auto;">
+  April 2025: Navigating the Shifting Sands of Consumer Spending Amid Rising Prices and New Tariffs
 </a>
-
 
 https://www.pymnts.com/study_posts/navigating-the-shifting-sands-of-consumer-spending-amid-rising-prices-and-new-tariffs/
 
