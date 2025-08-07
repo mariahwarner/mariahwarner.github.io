@@ -28,7 +28,6 @@ Below, you’ll find a selection of reports I’ve worked on, representing just 
 ## PYMNTS Proprietary Benchmark Studies
 
 ### Paycheck-to-Paycheck
-
 <a href="https://www.pymnts.com/study_posts/the-adjustable-rate-reckoning-how-homeownership-is-pushing-millions-paycheck-to-paycheck" target="_blank">
   July 2025: The Adjustable-Rate Reckoning: How Homeownership Is Pushing Millions Paycheck to Paycheck
 </a>
@@ -56,7 +55,7 @@ Below, you’ll find a selection of reports I’ve worked on, representing just 
 <a href="https://www.pymnts.com/study_posts/struggling-consumers-go-to-short-term-strategies-to-manage-higher-expenses/" target="_blank">
   January 2025: Struggling Consumers Go to Short-Term Strategies to Manage Higher Expenses
 </a>
-
+<div>
 
 ### Generational Pulse
 
