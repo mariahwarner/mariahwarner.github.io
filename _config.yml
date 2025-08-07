@@ -1,5 +1,5 @@
-title: "Mariah K. Warner"
-author: "Mariah K. Warner"
+title: "Mariah Warner, PhD"
+author: "Mariah Warner"
 description: ""
 permalink: /:title/
 lang: "en"
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:warner.796@osu.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:mariahkathrynw@gmail.com"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MariahKathrynW"}
   - {title: Google Scholar Profile, icon: graduation-cap, url: "https://scholar.google.com/citations?user=2BaS7mIAAAAJ&hl=en"}
 
