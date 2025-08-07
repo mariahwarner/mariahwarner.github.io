@@ -4,4 +4,15 @@ Outside of work, I spend most of my time doing something creative or competitive
 
 I grew up in New Hampshire and am a die-hard New England sports fan — yes, even now that I live in Columbus, Ohio with my partner, Alex, and our Black Lab, Luna. I went to college at Mississippi State, and while my roots are now Midwest-based, I’ll always have a soft spot for fall in New England and yelling at the TV during Patriots games.
 
-![image](/assets/images/gradpic1.jpg)
+<div style="
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  max-width: 400px;
+">
+  <img src="patriots.jpg" alt="Patriots" style="width: 100%; height: auto;">
+  <img src="rwanda.jpg" alt="Rwanda" style="width: 100%; height: auto;">
+  <img src="graduation.jpg" alt="Graduation" style="width: 100%; height: auto;">
+  <img src="luna.jpg" alt="Luna" style="width: 100%; height: auto;">
+</div>
+
