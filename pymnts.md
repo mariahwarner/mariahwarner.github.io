@@ -1,5 +1,3 @@
-# My work at PYMNTS
-
 As a Senior Research Manager at PYMNTS, I lead large-scale, end-to-end research projects on how people and businesses navigate the digital economy — from payments and financial technologies to eCommerce, banking, and beyond.
 
 I manage survey-based research from design to final deliverables, working closely with clients to shape their research questions, craft effective surveys, and translate data into meaningful insights. I also supervise a team of junior analysts and collaborate with writers and designers to turn complex findings into compelling narratives for wide audiences — including C-suite executives and major industry leaders.
