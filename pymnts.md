@@ -28,11 +28,33 @@ Below, you’ll find a selection of reports I’ve worked on, representing just 
 ## PYMNTS Proprietary Benchmark Studies
 
 ### Paycheck-to-Paycheck
-https://www.pymnts.com/study_posts/the-adjustable-rate-reckoning-how-homeownership-is-pushing-millions-paycheck-to-paycheck
 
 https://www.pymnts.com/study_posts/consumers-say-they-want-budgeting-tools-but-arent-using-them 
 
 https://www.pymnts.com/study_posts/do-the-side-hustle-four-in-10-us-consumers-seize-the-opportunity-to-earn-more-income/
+
+<a href="https://www.pymnts.com/study_posts/the-adjustable-rate-reckoning-how-homeownership-is-pushing-millions-paycheck-to-paycheck" target="_blank">
+  July 2025: The Adjustable-Rate Reckoning: How Homeownership Is Pushing Millions Paycheck to Paycheck
+</a>
+
+<a href="link" target="_blank">
+  title
+</a>
+<a href="link" target="_blank">
+  title
+</a>
+<a href="link" target="_blank">
+  title
+</a>
+<a href="link" target="_blank">
+  title
+</a>
+<a href="link" target="_blank">
+  title
+</a>
+<a href="link" target="_blank">
+  title
+</a>
 
 <a href="https://www.pymnts.com/study_posts/navigating-the-shifting-sands-of-consumer-spending-amid-rising-prices-and-new-tariffs/" target="_blank">
   April 2025: Navigating the Shifting Sands of Consumer Spending Amid Rising Prices and New Tariffs
