@@ -10,9 +10,9 @@ I grew up in New Hampshire and am a die-hard New England sports fan — yes, eve
   gap: 10px;
   max-width: 400px;
 ">
-  <img src="patriots.JPG" alt="Patriots" style="width: 100%; height: auto;">
-  <img src="rwanda.jpg" alt="Rwanda" style="width: 100%; height: auto;">
-  <img src="graduation.jpg" alt="Graduation" style="width: 100%; height: auto;">
-  <img src="luna.jpg" alt="Luna" style="width: 100%; height: auto;">
+  <img src="/patriots.JPG" alt="Patriots" style="width: 100%; height: auto;">
+  <img src="/rwanda.jpg" alt="Rwanda" style="width: 100%; height: auto;">
+  <img src="/graduation.jpg" alt="Graduation" style="width: 100%; height: auto;">
+  <img src="/luna.jpg" alt="Luna" style="width: 100%; height: auto;">
 </div>
 
