@@ -71,3 +71,38 @@ Below, you’ll find a selection of reports I’ve worked on, representing just 
 </div>
 
 ### Generational Pulse
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study_posts/generation-ai-why-gen-z-bets-big-and-boomers-hold-back" target="_blank">
+  July 2025: Genearation AI: Why Gen Z Bets Big and Boomers Hold Back
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study_posts/why-30percent-of-gen-z-and-millennials-like-telehealth-services" target="_blank">
+  June 2025: Three in 10 Gen Zers and Millennials Use Telehealth. But Paying the Doctor is Full of Friction
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study_posts/consumers-go-mobile-first-on-travel-purchases" target="_blank">
+  April 2025: Consumers Go Mobile-First on Travel Purchases
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study_posts/influencers-may-not-be-so-influential-in-driving-purchases" target="_blank">
+  March 2025: Influencers May Not Be So Influential in Driving Purchases
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study_posts/zillennials-transportation-choices-may-have-future-down-payments-in-mind" target="_blank">
+  January 2025: Zillennials' Transportation Choices May Have Future Down Payments in Mind
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study_posts/how-zillennials-financial-literacy-drives-their-financial-confidence" target="_blank">
+  December 2024: How Zillennials' Financial Literacy Drives Their Financial Confidence
+</a>
+</div>
