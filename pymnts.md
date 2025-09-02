@@ -12,10 +12,13 @@ I partner with global leaders in fintech, payments, and commerce to produce cust
 ### 2. Proprietary Benchmark Studies
 In addition to client work, I independently manage several of PYMNTS’ flagship recurring studies — including our Paycheck-to-Paycheck series and Generational Pulse tracker. These monthly and quarterly benchmarks offer a consistent, data-driven view into consumer behavior, financial well-being, and broader economic trends. They’re designed not only to explain what’s happening in the economy, but to help shape how the industry thinks about and responds to change.
 
-Below, you’ll find a selection of reports I’ve worked on, representing just a few of the data-driven projects I’ve led or contributed to at PYMNTS.
+Below, you’ll find a selection of reports I’ve worked on, representing just some of the data-driven projects I’ve led or contributed to at PYMNTS. I try to keep this list updated regularly, though it’s not exhaustive—there’s always more data work happening behind the scenes.
 
+In addition to the flagship reports featured here, my work also includes:
 
+**Special Reports** – Creating tailored analyses and quick-turnaround reports to answer specific client or internal questions.
 
+**Editorial Support** – Providing data insights and visualizations that support PYMNTS’ editorial team in developing articles, thought leadership, and industry commentary.
 
 ## Client-Sponsored Projects
 
@@ -106,3 +109,5 @@ Below, you’ll find a selection of reports I’ve worked on, representing just 
   December 2024: How Zillennials' Financial Literacy Drives Their Financial Confidence
 </a>
 </div>
+
+## Ad-Hoc Reports
