@@ -23,6 +23,11 @@ In addition to the flagship reports featured here, my work also includes:
 ## Client-Sponsored Projects
 
 ### Banyan
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/news/loyalty-and-rewards-news/2025/how-consumers-decide-what-card-is-their-top-of-wallet-go-to" target="_blank">
+  Beyond Points and Perks: How Relevant Benefits Drive Cardholder Engagement
+</a>
+</div>
 
 ### Elan
 
@@ -111,5 +116,27 @@ In addition to the flagship reports featured here, my work also includes:
 </div>
 
 ## Special Reports
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/gen-z/2025/gen-z-isnt-broke-theyre-smarter-with-money-than-you-think" target="_blank">
+  The Gen Z Decoder Ring
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study/how-consumers-decide-which-credit-card-to-pay-with" target="_blank">
+  How Consumers Decide Which Credit Card to Pay With
+</a>
+</div>
 
 ## Editorial Support
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/loans/2025/is-student-loan-debt-a-ladder-up-or-a-weight-down" target="_blank">
+  Is Student Loan Debt a Ladder Up or a Weight Down?
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/consumer-insights/2025/new-data-shows-women-decide-when-how-cut-back/" target="_blank">
+  New Data Shows Women Decide When and How to Cut Back
+</a>
+</div>
