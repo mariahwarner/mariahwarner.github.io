@@ -30,6 +30,11 @@ In addition to the flagship reports featured here, my work also includes:
 </div>
 
 ### Elan
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/digital-payments/2025/more-than-4-in-10-u-s-consumers-now-use-virtual-cards-at-checkout" target="_blank">
+ Digital Payments Evolution: Virtual Cards Poised to Take Off
+</a>
+</div>
 
 ### i2c 
 
