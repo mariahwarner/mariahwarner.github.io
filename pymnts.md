@@ -144,6 +144,12 @@ In addition to the flagship reports featured here, my work also includes:
 </a>
 </div>
 
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study/10-impact-statements-the-new-reality-check/#:~:text=PYMNTS%20Intelligence's%20exclusive%20eBook%2C%20%E2%80%9C10,consumers%20earn%2C%20save%20and%20spend." target="_blank">
+ 10 Ways Inflation and Rising Costs Defined Financial Realities This Year
+</a>
+</div>
+
 ## Editorial Support
 <div style="margin-bottom: 8px;">
 <a href="https://www.pymnts.com/loans/2025/is-student-loan-debt-a-ladder-up-or-a-weight-down" target="_blank">
