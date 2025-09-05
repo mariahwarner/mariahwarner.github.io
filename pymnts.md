@@ -37,6 +37,17 @@ In addition to the flagship reports featured here, my work also includes:
 </div>
 
 ### i2c 
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study/smb-growth-credit-card-usage/" target="_blank">
+  SMB Growth Monitor: How Firms Use and Choose Credit Cards
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study/the-credit-economy-top-of-wallet-credit-cards/" target="_blank">
+ The Credit Economy: Top-of-Wallet Credit Cards
+</a>
+</div>
 
 ## PYMNTS Proprietary Benchmark Studies
 
