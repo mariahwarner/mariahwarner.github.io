@@ -139,6 +139,12 @@ In addition to the flagship reports featured here, my work also includes:
 </div>
 
 <div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/study_posts/unmasking-the-drivers-of-paycheck-to-paycheck-living/" target="_blank">
+ Unmasking the Drivers of Paycheck-to-Paycheck Living
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
 <a href="https://www.pymnts.com/study/how-consumers-decide-which-credit-card-to-pay-with" target="_blank">
   How Consumers Decide Which Credit Card to Pay With
 </a>
@@ -158,7 +164,21 @@ In addition to the flagship reports featured here, my work also includes:
 </div>
 
 <div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/consumer-finance/2025/what-pinball-machines-tariffs-and-consumer-spending-have-in-common/#:~:text=The%20lesson%20from%20pinball%20is,that%20follows%20almost%20defies%20prediction." target="_blank">
+  What Pinball Tells Us About Spending in the Post-Tariff World
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+<a href="https://www.pymnts.com/consumer-finance/2025/who-is-the-paycheck-to-paycheck-consumer-in-america/" target="_blank">
+  Who Is the Paycheck-to-Paycheck Consumer in America?
+</a>
+</div>
+
+<div style="margin-bottom: 8px;">
 <a href="https://www.pymnts.com/consumer-insights/2025/new-data-shows-women-decide-when-how-cut-back/" target="_blank">
   New Data Shows Women Decide When and How to Cut Back
 </a>
 </div>
+
+
