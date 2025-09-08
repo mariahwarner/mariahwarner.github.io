@@ -23,8 +23,16 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  
 
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mariah-warner-phd-388296263/"}
+<footer style="text-align:center; margin-top:2em;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mariah-warner-phd-388296263/" target="_blank" style="margin-right:1em; text-decoration:none; color:inherit;">
+    <i class="fa-brands fa-linkedin" style="font-size:1.5em;"></i> LinkedIn
+  </a>
+  
+  <!-- Email as plain text -->
+  <span style="margin-left:1em;">Email: mariahkathrynw@gmail.com</span>
+</footer>
+
 
 
 comments:
