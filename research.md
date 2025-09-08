@@ -14,7 +14,7 @@ My dissertation explores the relationship between sports fandom and political to
 
 **Much of the quantitative data used in my dissertation came from a collaboration with Fox Sports and Dexterity Consulting. Here, you can view a presentation given to executives at these companies where I provided actionable insights based on my findings and introduced an original concept for a fan-focused app: a platform that helps fans locate restaurants or bars to watch games while connecting with like-minded supporters.**
 
-<iframe src="A Different Kind of Neutral Zone.pdf" width="100%" height="600px">
+<iframe src="A_Different_Kind_of_Neutral_Zone.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please 
     <a href="A Different Kind of Neutral Zone.pdf">download the PDF</a> to view it.
 </iframe>
