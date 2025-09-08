@@ -12,3 +12,8 @@ With a Ph.D. in Sociology, I bring a deep understanding of human behavior and ri
 This site serves as a portfolio of my research — both industry and academic — including selected reports, visualizations, and media coverage. Whether I’m exploring how people use financial technology, what drives consumer behavior, or how cultural institutions shape everyday life, I care about research that is smart, clear, and meaningful.
 
 ![image](/assets/images/IMG_7204.jpg)
+
+
+[LinkedIn](https://www.linkedin.com/in/mariah-warner-phd-388296263/)  
+
+Email me: mariahkathrynw@gmail.com
