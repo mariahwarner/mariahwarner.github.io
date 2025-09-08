@@ -6,6 +6,17 @@ Through this lens, I designed and carried out large-scale surveys, conducted in-
 
 ---
 
+### Doctoral Dissertation
+
+**A Different Kind of Neutral Zone: Exploring Sports Fan Communities as Sites of Political Tolerance in an Era of Division**, PhD Dissertation, The Ohio State University (2025)  
+
+My dissertation explores the relationship between sports fandom and political tolerance, focusing on how cultural institutions shape perceptions of others’ ideologies relative to one’s own. Using surveys of 30,000+ respondents, 20 in-depth interviews, and ethnography (particpanty observation), I create an understanding of how fan communities, identity signaling, and group boundaries influence attitudes toward out-group ideologies. In doing so, I demonstrate how fan communities can foster tolerance in unique ways.
+
+**Much of the quantitative data used in my dissertation came from a collaboration with Fox Sports and Dexterity Consulting. Here, you can view a presentation given to executives at these companies where I provided actionable insights based on my findings and introduced an original concept for a fan-focused app: a platform that helps fans locate restaurants or bars to watch games while connecting with like-minded supporters.**
+
+<iframe src="assets/A Different Kind of Neutral Zone.pdf" width="100%" height="600px">
+---
+
 ### Selected Publications
 
 1. **[When Kids Hitting Each Other Is Okay: Examining U.S. Adult Support for Youth Tackle Football](https://journals.sagepub.com/doi/abs/10.1177/23294965221074017)** *Social Currents*, 2022
@@ -23,14 +34,6 @@ Abstract: This study uses National Sports and Society Survey (N = 3,993) dat
 4. **[Considering Person-First Language in Genocide Studies](https://jpr.winchesteruniversitypress.org/articles/10.21039/jpr.6.2.122?_rsc=mmj6v)** *Journal of Perpetrator Research*, 2024  
 
 Draws on interviews with 165 incarcerated individuals in Rwanda to show how language shapes reintegration, identity, and public perception. 
-
----
-
-### Doctoral Dissertation
-
-**A Different Kind of Neutral Zone: Exploring Sports Fan Communities as Sites of Political Tolerance in an Era of Division**, PhD Dissertation, The Ohio State University (2025)  
-
-My dissertation investigated sports fandom as a social arena where people of different political and cultural identities interact. Using surveys of 30,000+ respondents, 20 in-depth interviews, and ethnography (particpanty observation), I demonstrated how fan communities can foster tolerance in unique ways.
 
 ---
 
