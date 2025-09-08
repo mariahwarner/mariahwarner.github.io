@@ -24,9 +24,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:mariahkathrynw@gmail.com"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/MariahKathrynW"}
-  - {title: Google Scholar Profile, icon: graduation-cap, url: "https://scholar.google.com/citations?user=2BaS7mIAAAAJ&hl=en"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mariah-warner-phd-388296263/"}
+
+# Add your email as plain text at the bottom of the page
+footer_email: "mariahkathrynw@gmail.com"
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
