@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mariah-warner-phd-388296263/"}
 
 # Add your email as plain text at the bottom of the page
-footer_email: "mariahkathrynw@gmail.com"
+**Email:** mariahkathrynw@gmail.com 
 
 
 comments:
