@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "pymnts.md", title: "PYMNTS"}
+  - {file: "pymnts.md", title: "PYMNTS Intelligence"}
   - {file: "resume.md", title: "Resume"} 
   - {file: "research.md", title: "Academic Research"}
   - {file: "aboutme.md", title: "About Me"}
